@@ -7,8 +7,8 @@ The DSA 102 course aims to develop an understanding of how to compare different 
 
 | Topic | Videos | Book | Projects | 
 |-------|--------|------|----------|
-| | | |
-| | | |
+| Introduction to Time and Space Complexity|[01.Introduction to Time and Space Complexity](https://vimeo.com/1082509487/9cd2dc4706?share=copy)| |[Big O Notation](https://github.com/SAFCSP-Team/big-o-project)|
+| | | | 
 | | | |
 
 
