@@ -13,5 +13,5 @@ The DSA 102 course aims to develop an understanding of how to compare different 
 
 
 
-**Duration**: 20 days.
+**Duration**: 14 days.
 > Note: download PDF files and open it with Adobe Acrobat for video visualizations to work.
